@@ -1,0 +1,7 @@
+{
+  "name": "idle-timer-react",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "react-idle-timer": "^5.5.3"
+  }
+}
